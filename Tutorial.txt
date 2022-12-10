@@ -7,4 +7,8 @@ do git na nossa pasta.
     -Dei estrelinha no tutorial de cima: Muito melhor que fazer é pegar pronto.
 
 
-Fazendo uma modificação para aparecer na branch teste1
+Fazendo uma modificação para aparecer na branch teste1:
+-Branch cria uma nova linha do tempo
+-Dentro da ramificação main voce coloca um git merge e o nome da ramificação que você quer e ela já esta la dentro da main
+    -Agora vou ir dentro do github para modificar os negócio de segurança para evitar que seja tão bagunçado assim:
+
