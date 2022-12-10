@@ -1,0 +1,7 @@
+-----Depois de criar o repositorio no github, abrimos uma pasta qualquer do pc e iniciamos o terminal do git nesta pasta:
+E digitamos o seguinte comando ( git clone https://github.com/osamuelsousa/NextJSTest1), com isso clonamos o repositorio
+do git na nossa pasta.
+
+-----Depois disso abri o terminal do git na minha pasta com os arquivos: Lista de comandos detalhado:
+(https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+    -Dei estrelinha no tutorial de cima: Muito melhor que fazer é pegar pronto.
